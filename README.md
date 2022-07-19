@@ -1,9 +1,12 @@
-Run the main.py file using any intrepeter greater than python3
+<h3>Run the <U><i>main.py</i></U> file in any IDE</h3>
 
-instruction : 1. Use Arrow keys to move pacman
-              2. install Pygame
-              3. after entering the Game press 'SPACE' 
+<B>Instruction:</B>  
+<ul>
+<li>Use Arrow keys to move pacman</li>
+<li>install Pygame</li>
+<li>after entering the Game press 'SPACE' </li></ul>
               
-Algo : 1.BFS used by Enimes to search The Pacman
-       2. Randomisation
+<B>Algo:</B> 
+<ul> <li>BFS used by Enimes to search The Pacman</li>
+      <li>Randomisation</li> </ul>
 <img src='D:\Pacman\Screenshot 2022-06-20 233335.jpg'>
